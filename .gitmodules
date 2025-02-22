@@ -1,3 +1,6 @@
 [submodule "Blackboard"]
 	path = Blackboard
 	url = https://github.com/IulianScoropad/Blackboard.git
+[submodule "Pipline-and-Filters"]
+	path = Pipline-and-Filters
+	url = https://github.com/IulianScoropad/Pipline-and-Filters.git
