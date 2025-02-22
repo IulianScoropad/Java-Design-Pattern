@@ -1,0 +1,3 @@
+[submodule "Blackboard"]
+	path = Blackboard
+	url = https://github.com/IulianScoropad/Blackboard.git
